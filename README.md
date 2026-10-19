@@ -70,12 +70,8 @@ complete local setup instructions and a working demo video. For the strongest gr
 4. The Cypher console running a read-only query against FalkorDB.
 
 Set `GEMINI_API_KEY` for a live analyst run. Without it, the interface explicitly labels recorded replay mode;
-use replay for a deterministic backup demo. Do not present replay output as a live model response. Record and
-review a short end-to-end demo yourself before submission.
+use replay for a deterministic backup demo. Do not present replay output as a live model response.
 
-**Eligibility check:** the hackathon FAQ allows continuing an existing project, but says the submission and its
-main FalkorDB implementation must be new work completed during the event. Verify your implementation timeline and
-retain evidence of the event-period work before submitting.
 
 ## Graph data model
 
